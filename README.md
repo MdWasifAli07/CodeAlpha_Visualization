@@ -56,10 +56,3 @@ The notebook steps sequentially through a curated collection of executive-ready 
 
 ---
 
-## 🚀 Deployment Instructions (Google Colab)
-
-1. Load a blank workbook onto your [Google Colab Workspace](https://colab.research.google.com/).
-2. Segment the code blocks into independent **Code Cells** while using the matching structural descriptions inside **Markdown Cells**.
-3. Execute **Cell 2** to initiate the file stream pipeline, and upload the `products.csv` file generated during Task 1.
-4. Run all cells sequentially to render the data visualizations locally.
-5. [cite_start]Download your finalized work as an `.ipynb` file (`File -> Download -> Download .ipynb`) and commit it directly to your main GitHub repository[cite: 16].
